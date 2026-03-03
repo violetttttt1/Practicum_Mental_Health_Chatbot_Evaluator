@@ -40,7 +40,5 @@ Then open `http://localhost:8501` in your browser.
 ```
 ├── app.py               # Main application
 ├── requirements.txt     # Python dependencies
-├── .env                 # Your API key (do NOT commit this)
-├── .env.example         # Template for .env
-└── .gitignore           # Keeps .env out of GitHub
+└── .env                 # Your API key
 ```
