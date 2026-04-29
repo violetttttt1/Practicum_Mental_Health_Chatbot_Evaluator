@@ -1,6 +1,6 @@
 # Mental Health Chatbot Safety Evaluator — v3
 
-**Live demo:** [https://mh-safety-evaluator-v2.streamlit.app/](https://mh-safety-evaluator-v3.streamlit.app/)
+**Live demo:** [https://mh-safety-evaluator-v3.streamlit.app/](https://mh-safety-evaluator-v3.streamlit.app/)
 
 A developer tool for testing and iterating on AI chatbot system prompts in mental health contexts, using LLM-as-a-Judge evaluation.
 
