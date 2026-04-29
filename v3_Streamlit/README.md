@@ -1,8 +1,10 @@
-# Mental Health Chatbot Safety Evaluator — v2
+# Mental Health Chatbot Safety Evaluator — v3
+
+**Live demo:** [https://mh-safety-evaluator-v2.streamlit.app/](https://mh-safety-evaluator-v3.streamlit.app/)
 
 A developer tool for testing and iterating on AI chatbot system prompts in mental health contexts, using LLM-as-a-Judge evaluation.
 
-## What's new in v2
+## What's new in v3
 
 - **Flexible API key system** — add any key without labeling it by provider. The tool auto-detects which models (OpenAI, Anthropic, Google Gemini) each key can access and shows only what's available to you.
 - **Dynamic model list** — no hardcoded models. OpenAI models are fetched live from the API; Anthropic and Google use a curated list verified against your key.
